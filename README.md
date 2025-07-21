@@ -1,7 +1,7 @@
 # Preciouspendo
 # 🧠 DeepTrace - Hacker Phone Tracker Simulation
 
-![Banner](assets/hacker-banner.png)
+![Banner](hacker-banner.png)
 
 **DeepTrace** is a Python-based simulation of an IMEI phone tracking system built for ethical hacking education and digital forensics demonstrations.
 
